@@ -1,2 +1,3 @@
-// decl.d.ts
-declare module 'mfe1/Module';
+// projects/shell/src/decl.d.ts
+
+declare module 'mfe1/*';
